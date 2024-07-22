@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lexi-LXY
-- 👀 I’m interested in Control Algorithm, Medical Robots，Sensors
+- 👀 I’m interested in Control Algorithm, Medical Robots， Sensors
 - 🌱 I’m currently learning Mechatronics 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  xiyu1015@yahoo.mail  
 - 😄 Pronouns: She/Her    
 
